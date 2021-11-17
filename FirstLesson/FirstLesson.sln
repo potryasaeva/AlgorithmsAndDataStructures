@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstLesson", "FirstLesson.csproj", "{3DE52C5F-14F3-43C3-88B2-316AB5ECB03C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FirstLesson", "FirstLesson.csproj", "{3DE52C5F-14F3-43C3-88B2-316AB5ECB03C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibonacci", "..\Fibonacci\Fibonacci.csproj", "{FEC998DF-7DC6-422B-A9F7-2915EAB39530}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fibonacci", "..\Fibonacci\Fibonacci.csproj", "{FEC998DF-7DC6-422B-A9F7-2915EAB39530}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchInTree", "..\SearchInTree\SearchInTree.csproj", "{3ADE9FC2-01B6-4A3C-BC10-AE538B1FF629}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{FEC998DF-7DC6-422B-A9F7-2915EAB39530}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FEC998DF-7DC6-422B-A9F7-2915EAB39530}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FEC998DF-7DC6-422B-A9F7-2915EAB39530}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3ADE9FC2-01B6-4A3C-BC10-AE538B1FF629}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ADE9FC2-01B6-4A3C-BC10-AE538B1FF629}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ADE9FC2-01B6-4A3C-BC10-AE538B1FF629}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ADE9FC2-01B6-4A3C-BC10-AE538B1FF629}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
